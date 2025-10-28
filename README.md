@@ -1,1 +1,1 @@
-# darculaButtonOutline
+# darcula-button-outline
